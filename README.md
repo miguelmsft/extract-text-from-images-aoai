@@ -17,7 +17,7 @@ This repository contains code and examples demonstrating how to extract informat
    
 ## Overview  
    
-With the advancement of AI and image recognition technologies, extracting meaningful information from images has become increasingly accessible. This repository leverages Azure's OpenAI GPT-4o model to:  
+This repository leverages Azure's OpenAI GPT-4o model to:  
    
 - Describe images in detail.  
 - Extract text content directly from images.  
